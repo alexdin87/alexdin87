@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning genetic algorithms
 - 💞️ I’m looking to collaborate on lppl, currently working on own implementation
-- 📫 DO not reach me if it is a scam
+- 📫 alexandrudin@gmail.com (+4)0722.211.656  (RO)
 
 <!---
 alexdin87/alexdin87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
